@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Hugo Jihun Lee'
+theme = 'hyde'
+
+[params]
+description = "calle camino del los vinateros moratalaz, madrid, 28030, telefono. 623 069 757"
+themeColor = "theme-base-0d"
