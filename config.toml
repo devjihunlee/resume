@@ -1,4 +1,4 @@
-baseURL = 'http://hugojihunlee.com/'
+baseURL = 'https://devjihunlee.github.io/resume/'
 languageCode = 'en-us'
 title = 'Hugo Jihun Lee'
 theme = 'hyde'
