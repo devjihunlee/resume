@@ -1,4 +1,4 @@
-baseURL = 'https://devjihunlee.github.io/resume/'
+baseURL = 'https://hugolee.netlify.app/'
 languageCode = 'en-us'
 title = 'Hugo Jihun Lee'
 theme = 'hyde'
